@@ -1,0 +1,17 @@
+De Funcionario2
+
+Ola chefe, acabei de criar um arquivo que mostram as mensagens que estao sendo enviadas
+
+De Chefe
+
+Ola, funcionario2, otimo!
+Porem ela esta visivel para o publico? se sim, precisaremos corrigir rapidamente e criar
+uma tela de login!
+
+De Funcionario2
+
+Eu irei corrigir isto amanha chefe! o nome do arquivo e maillog.log
+
+De Chefe2
+
+Certo!
